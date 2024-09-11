@@ -71,6 +71,12 @@ body {
 }
 
 /* About Section */
+.about {
+  padding: 50px 20px;
+  background: #fff;
+  margin-top: 20px; /* Additional space between the navbar and the About section */
+}
+
 .about-details {
   display: flex;
   align-items: center; /* Align the image and text vertically if needed */
