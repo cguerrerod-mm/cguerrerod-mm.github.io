@@ -165,10 +165,11 @@ body {
 /* Bullet point styles */
 ul {
   list-style-type: disc; /* Default bullet point style */
-  margin-left: 20px; /* Adjust spacing from the left */
+  margin-left: 10px;
+  padding-left: 10px; /* Adjust spacing from the left */
 }
 
 li {
   margin-bottom: 10px; /* Space between bullet points */
-  font-size: 16px; /* Adjust the font size if needed */
+  font-size: 12px; /* Adjust the font size if needed */
 }
